@@ -1,0 +1,36 @@
+[
+    {
+        "id" : 1 ,
+        "title": "Gömlek",
+        "price": 100 ,
+        "image":"https://laco.akinoncdn.com/products/2022/01/26/6135/ff43aece-9a94-447a-9c11-a1692ae1eb11_size2000x2000_cropCenter.jpg"
+
+    }
+    ,
+
+    {
+        "id" : 2 ,
+        "title":"Ayakkabı",
+        "price":1000,
+        "image":"https://contents.mediadecathlon.com/p1845096/k$12fcc9f726ea60519a0c24b970dd4af7/sq/outdoor-ayakkabilar.jpg?format=auto&f=800x0"
+    }
+    ,
+    {
+        "id": 3 ,
+        "title":"kumbara",
+        "price":10,
+        "image":"https://evidea.akinoncdn.com/products/2021/01/11/51942/c8d3969e-d01a-4b62-bf3a-22b51e89ec3b_size616x616_cropTop.jpg"
+
+    }
+    ,
+    {
+        "id": 4 ,
+        "title":"Fincan ",
+        "price":100,
+        "image":"https://cdn.karaca.com/image/cdndata/185/1411119/image153.03.07.8418-1.jpg"
+
+    }
+
+
+
+]
